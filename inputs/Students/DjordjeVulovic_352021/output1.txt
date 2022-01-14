@@ -1,0 +1,35 @@
+Ulaz1
+=============================================
+Unesite prvu listu: 
+Unesite drugu listu: 
+Unesite znak operacije: 
+123456789024688
+=============================================
+Ulaz2
+=============================================
+Unesite prvu listu: 
+Unesite drugu listu: 
+Unesite znak operacije: 
+135799844002010
+=============================================
+Ulaz3
+=============================================
+Unesite prvu listu: 
+Unesite drugu listu: 
+Unesite znak operacije: 
+303228688631973588068
+=============================================
+Ulaz4
+=============================================
+Unesite prvu listu: 
+Unesite drugu listu: 
+Unesite znak operacije: 
+13579025671990
+=============================================
+Ulaz5
+=============================================
+Unesite prvu listu: 
+Unesite drugu listu: 
+Unesite znak operacije: 
+112233435578033
+=============================================

@@ -1,0 +1,12 @@
+string1=input("")
+string2=input("")
+string3=input("")
+if(string3=="+"):
+    pom=int(string1)+int(string2)
+elif(string3=="-"):
+    pom=int(string1)-int(string2)
+elif(string3=="*"):
+    pom=int(string1)*int(string2)
+else:
+    print("Greska")
+print(pom)

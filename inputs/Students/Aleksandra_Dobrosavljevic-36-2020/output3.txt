@@ -1,0 +1,106 @@
+Ulaz1
+=============================================
+Unesite broj gradova:Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+[[1, 0, 1], [0, 0, 0], [1, 1, 0]]
+[[1, 0, 1], [1, 1, 0], [1, 1, 1]]
+=============================================
+Ulaz2
+=============================================
+Unesite broj gradova:Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+[[1, 0, 1, 0], [1, 1, 0, 1], [0, 0, 0, 1], [1, 0, 0, 1]]
+[[1, 0, 1, 0], [1, 1, 0, 1], [1, 1, 1, 1], [1, 1, 1, 1]]
+=============================================
+Ulaz3
+=============================================
+Unesite broj gradova:Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+[[1, 0, 1, 1, 0], [0, 1, 1, 1, 0], [1, 1, 0, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]]
+[[1, 0, 1, 1, 0], [1, 1, 1, 1, 0], [1, 1, 1, 0, 0], [1, 1, 1, 1, 1], [1, 1, 1, 1, 1]]
+=============================================
+Ulaz4
+=============================================
+Unesite broj gradova:Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+Unesite element
+[[1, 0, 1, 0, 1, 0], [0, 0, 0, 1, 1, 0], [0, 1, 1, 0, 0, 1], [1, 0, 0, 0, 1, 1], [1, 1, 0, 0, 0, 0], [0, 1, 0, 1, 0, 1]]
+[[1, 0, 1, 0, 1, 0], [1, 1, 0, 1, 1, 0], [1, 1, 1, 0, 0, 1], [1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 0], [1, 1, 1, 1, 1, 1]]
+=============================================

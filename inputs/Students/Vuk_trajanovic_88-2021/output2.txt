@@ -1,0 +1,16 @@
+Ulaz1
+=============================================
+rec je izbacuje se ovoliko reci: rec za brisanje je rec za brisanje je rec za brisanje je ['br\r', 'aa\r', 'ad\r']
+=============================================
+Ulaz2
+=============================================
+rec je izbacuje se ovoliko reci: rec za brisanje je rec za brisanje je rec za brisanje je rec za brisanje je ['bl\r', 'aa\r', 'la\r', 'dd\r']
+=============================================
+Ulaz3
+=============================================
+rec je izbacuje se ovoliko reci: rec za brisanje je rec za brisanje je ['a\r', 'rbr\r']
+=============================================
+Ulaz4
+=============================================
+rec je izbacuje se ovoliko reci: rec za brisanje je rec za brisanje je ['je\r', 'dan\r']
+=============================================

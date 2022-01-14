@@ -1,0 +1,49 @@
+Ulaz1
+=============================================
+['abrakadabrabbrrd\r']
+['abrakadabrabbrrd\r']
+['abrakadabrabbrrd\r']
+['abrakadabrabbrrd\r']
+['abrakadabrabbrrd\r']
+['abrakadabrabbrrd\r']
+['abrakadabrabbrrd\r']
+abrakadabrabbrrd
+=============================================
+Ulaz2
+=============================================
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+['bblaabllaladdl\r']
+bblaabllaladdl
+=============================================
+Ulaz3
+=============================================
+['barabarabarabar', '']
+barabarabarabar
+['barabarabarabar', '']
+barabarabarabar
+['barabarabarabar', '']
+barabarabarabar
+['barabarabarabar', '']
+barabarabarabar
+['barabarabarabara\r']
+['barabarabarabara\r']
+barabarabarabara
+=============================================
+Ulaz4
+=============================================
+['jedadannjjedanejedanba\r']
+['jedadannjjedanejedanba\r']
+['jedadannjjedanejedanba\r']
+['jedadannjjedanejedanba\r']
+['jedadannjjedanejedanba\r']
+['jedadannjjedanejedanba\r']
+jedadannjjedanejedanba
+=============================================

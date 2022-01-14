@@ -1,0 +1,12 @@
+Ulaz1
+=============================================
+Unesite rec: Unesite broj reci koji se izbacuje: Unesite rec koja ce biti izbacena: =============================================
+Ulaz2
+=============================================
+Unesite rec: Unesite broj reci koji se izbacuje: Unesite rec koja ce biti izbacena: =============================================
+Ulaz3
+=============================================
+Unesite rec: Unesite broj reci koji se izbacuje: Unesite rec koja ce biti izbacena: =============================================
+Ulaz4
+=============================================
+Unesite rec: Unesite broj reci koji se izbacuje: Unesite rec koja ce biti izbacena: =============================================

@@ -1,0 +1,20 @@
+Ulaz1
+=============================================
+gradovi direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je [[1, 0, 1], [0, 1, 0], [1, 1, 1]]
+[[1, 1, 1], [0, 1, 0], [1, 1, 1]]
+=============================================
+Ulaz2
+=============================================
+gradovi direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je [[1, 0, 1, 0], [1, 1, 0, 1], [0, 0, 1, 1], [1, 0, 0, 1]]
+[[1, 0, 1, 1], [1, 1, 1, 1], [1, 0, 1, 1], [1, 0, 1, 1]]
+=============================================
+Ulaz3
+=============================================
+gradovi direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je [[1, 0, 1, 1, 0], [0, 1, 1, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]]
+[[1, 1, 1, 1, 1], [1, 1, 1, 1, 1], [1, 1, 1, 1, 0], [1, 1, 1, 1, 1], [1, 1, 1, 1, 1]]
+=============================================
+Ulaz4
+=============================================
+gradovi direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je direktnost je [[1, 0, 1, 0, 1, 0], [0, 1, 0, 1, 1, 0], [0, 1, 1, 0, 0, 1], [1, 0, 0, 1, 1, 1], [1, 1, 0, 0, 1, 0], [0, 1, 0, 1, 0, 1]]
+[[1, 1, 1, 0, 1, 1], [1, 1, 0, 1, 1, 1], [0, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 0], [1, 1, 0, 1, 1, 1]]
+=============================================

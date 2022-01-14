@@ -1,0 +1,30 @@
+Ulaz1
+=============================================
+Unesite broj gradova n: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: [1, 1, 1]
+[0, 1, 0]
+[1, 1, 1]
+=============================================
+Ulaz2
+=============================================
+Unesite broj gradova n: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: [1, 0, 1, 1]
+[1, 1, 1, 1]
+[1, 0, 1, 1]
+[1, 0, 1, 1]
+=============================================
+Ulaz3
+=============================================
+Unesite broj gradova n: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: [1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1]
+=============================================
+Ulaz4
+=============================================
+Unesite broj gradova n: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: Unesite 0 ili 1: [1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1]
+=============================================

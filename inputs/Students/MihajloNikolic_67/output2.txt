@@ -1,0 +1,56 @@
+Ulaz1
+=============================================
+Unesi rec: Uneti broj reci za brisanje: Uneti rec koja se izbacuje: Uneti rec koja se izbacuje: Uneti rec koja se izbacuje: 3
+br
+a
+a
+3
+aa
+b
+b
+3
+ad
+r
+r
+=============================================
+Ulaz2
+=============================================
+Unesi rec: Uneti broj reci za brisanje: Uneti rec koja se izbacuje: Uneti rec koja se izbacuje: Uneti rec koja se izbacuje: Uneti rec koja se izbacuje: 3
+bl
+b
+b
+3
+aa
+b
+b
+3
+la
+l
+l
+3
+dd
+a
+a
+=============================================
+Ulaz3
+=============================================
+Unesi rec: Uneti broj reci za brisanje: Uneti rec koja se izbacuje: Uneti rec koja se izbacuje: 2
+a
+b
+b
+4
+rbr
+a
+a
+=============================================
+Ulaz4
+=============================================
+Unesi rec: Uneti broj reci za brisanje: Uneti rec koja se izbacuje: Uneti rec koja se izbacuje: 3
+je
+j
+j
+4
+dan
+e
+e
+=============================================

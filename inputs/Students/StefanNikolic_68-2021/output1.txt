@@ -1,0 +1,20 @@
+Ulaz1
+=============================================
+Unesi prvi broj: Unesi drugi broj: Unesi znak racunske operacije: 
+=============================================
+Ulaz2
+=============================================
+Unesi prvi broj: Unesi drugi broj: Unesi znak racunske operacije: 
+=============================================
+Ulaz3
+=============================================
+Unesi prvi broj: Unesi drugi broj: Unesi znak racunske operacije: 
+=============================================
+Ulaz4
+=============================================
+Unesi prvi broj: Unesi drugi broj: Unesi znak racunske operacije: 
+=============================================
+Ulaz5
+=============================================
+Unesi prvi broj: Unesi drugi broj: Unesi znak racunske operacije: 
+=============================================

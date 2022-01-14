@@ -1,0 +1,5 @@
+s=input()
+s2=input()
+z=input()
+del(z)
+print(z)
