@@ -1,0 +1,20 @@
+Ulaz1
+=============================================
+broj reci koje se izbacuju['br\r', 'aa\r', 'ad']
+abrakabrabbrrd
+=============================================
+Ulaz2
+=============================================
+broj reci koje se izbacuju['bl\r', 'aa\r', 'la\r', 'dd\r']
+bblaabllaladdl
+=============================================
+Ulaz3
+=============================================
+broj reci koje se izbacuju['a\r', 'rbr\r']
+barabarabarabar
+=============================================
+Ulaz4
+=============================================
+broj reci koje se izbacuju['je\r', 'dan\r']
+jedadannjjedanejedanba
+=============================================

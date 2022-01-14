@@ -1,0 +1,16 @@
+Ulaz1
+=============================================
+Unesite rec: Unesite broj elemenata za brisanje: Unesite rec za brisanje: Unesite rec za brisanje: Unesite rec za brisanje: ['br\r', 'aa\r', 'ad']
+=============================================
+Ulaz2
+=============================================
+Unesite rec: Unesite broj elemenata za brisanje: Unesite rec za brisanje: Unesite rec za brisanje: Unesite rec za brisanje: Unesite rec za brisanje: ['bl\r', 'aa\r', 'la\r', 'dd\r']
+=============================================
+Ulaz3
+=============================================
+Unesite rec: Unesite broj elemenata za brisanje: Unesite rec za brisanje: Unesite rec za brisanje: ['a\r', 'rbr\r']
+=============================================
+Ulaz4
+=============================================
+Unesite rec: Unesite broj elemenata za brisanje: Unesite rec za brisanje: Unesite rec za brisanje: ['je\r', 'dan\r']
+=============================================
